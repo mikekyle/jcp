@@ -1,0 +1,45 @@
+body {
+    background-color: #f2f2f2;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    line-height: 1.5;
+    display: block;
+}
+table {
+    background-color: white;
+    margin: 20px;
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border: 0ch;
+}
+th, td {
+    border: 1px solid #ddd;
+  }
+h1 {
+    background-color: #1f77b4;
+    color: white;
+}
+img {
+    margin-bottom: 40px;
+}
+#navigation {
+    border: thin solid black;
+    background-color: white;
+    float: left;
+    width: 200px;
+}
+#navigation h2{
+    font: bold 1.0em Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+#summary {
+    float: right;
+}
+#summary img {
+    margin: 0;
+}

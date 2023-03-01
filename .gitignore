@@ -1,0 +1,14 @@
+analysis_logs/*
+archive/*
+ENCLOSUREONEOFF/*
+HLA/*
+HLKA/*
+KH1L/*
+KH2L/*
+KL1H/*
+KL1L/*
+KL2L/*
+SAV/*
+sfg2img/*
+themes/*
+*.pyc
